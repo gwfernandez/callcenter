@@ -15,9 +15,9 @@ import com.almundo.callcenter.model.Supervisor;
 public class CallCenterLoader {
 
 	// defino la cantidad de operadores del callcenter
-	private static final int CANTIDAD_OPERADORES = 6;
+	private static final int CANTIDAD_OPERADORES = 4;
 	// defino la cantidad de supervisores del callcenter
-	private static final int CANTIDAD_SUPERVISORES = 3;
+	private static final int CANTIDAD_SUPERVISORES = 2;
 	// defino la cantidad de directores del callcenter
 	private static final int CANTIDAD_DIRECTORES = 1;
 
